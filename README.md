@@ -1,1 +1,1 @@
-# desktop-cryptography-bougara-n
+# Desktop Cryptography Project
